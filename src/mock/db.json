@@ -1,0 +1,58 @@
+{
+  "points": [
+    {
+      "id": 1,
+      "time": "09:00:01",
+      "date": "Mon Aug 10 2021",
+      "sense": "A"
+    },
+    {
+      "id": 2,
+      "time": "12:01:04",
+      "date": "Mon Aug 10 2021",
+      "sense": "L"
+    },
+    {
+      "id": 3,
+      "time": "13:01:04",
+      "date": "Mon Aug 10 2021",
+      "sense": "L"
+    },
+    {
+      "id": 4,
+      "time": "18:00:01",
+      "date": "Mon Aug 10 2021",
+      "sense": "E"
+    },
+    {
+      "id": "2045",
+      "time": "01:11:00",
+      "date": "Tue Aug 17 2021",
+      "sense": "A"
+    },
+    {
+      "id": "8100",
+      "time": "01:12:25",
+      "date": "Tue Aug 17 2021",
+      "sense": "L"
+    },
+    {
+      "id": "2266",
+      "time": "01:12:57",
+      "date": "Tue Aug 17 2021",
+      "sense": "L"
+    },
+    {
+      "id": "2232",
+      "time": "01:13:12",
+      "date": "Tue Aug 17 2021",
+      "sense": "E"
+    }
+  ],
+  "hoursBank": [
+    {
+      "total": 8.05138888888888889,
+      "id": 1
+    }
+  ]
+}

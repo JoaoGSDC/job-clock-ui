@@ -1,0 +1,28 @@
+.title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.close {
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border: 1px solid #00d500;
+  border-radius: 100px;
+  font-size: 21px;
+  color: #00d500;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .close {
+    width: 30px !important;
+    top: 60px !important;
+  }
+}

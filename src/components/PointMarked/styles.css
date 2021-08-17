@@ -1,0 +1,31 @@
+li {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 15px;
+    margin: 10px;
+    background-color: #2b2b2b;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 50%);
+}
+
+li div {
+    margin-right: 10px;
+}
+
+.circle {
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+}
+
+.time {
+    font-size: 21px;
+    margin-bottom: 5px;
+}
+
+.date {
+    font-size: 14px;
+    color: #6b6b6b;
+}
